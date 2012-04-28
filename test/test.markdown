@@ -1,6 +1,28 @@
 this is test
 ==========
 
+pre
+----------
+
+<pre>
+
+#include
+
+int a;
+
+</pre>
+
+prepre
+----------
+
+#### test
+
+    use strict;
+    prinf "hoge";
+
+end
+
+
 test
 ----------
 
